@@ -11,4 +11,6 @@
 
 3-)Enter the file with this code: <code>cd Javascript_Node.js_Web_Scraping---Bir_Siteden_Veri_Cekme</code>
 
+4-)Copy this code: <code>npm install</code> and paste to terminal 
+
 4-)Copy this code: <code>node .\index.js</code> and paste to terminal 
