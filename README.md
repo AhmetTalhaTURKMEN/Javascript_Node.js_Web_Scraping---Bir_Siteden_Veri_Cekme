@@ -14,3 +14,6 @@
 4-)Copy this code: <code>npm install</code> and paste to terminal 
 
 4-)Copy this code: <code>node .\index.js</code> and paste to terminal 
+
+## photo
+![Screenshot_2](https://user-images.githubusercontent.com/75725469/214228321-09eab068-9997-4f26-9347-b058b3eaecd4.png)
